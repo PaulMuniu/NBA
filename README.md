@@ -20,8 +20,14 @@ This project explores and analyzes the relationships between various attributes 
 - Insights were gained into how player roles are distributed across teams and how physical attributes relate to player positions.
 
 ---
+### 2. **Numerical Analysis**
+Here at Numerical analysis, we focused on understanding relationships and trends within numerical data. By analyzing features such as player age, weight, height, and salary, we gain valuable insights into the factors that may influence player performance and value.
 
-### 2. **Bivariate Analysis**
+![Histogram](Image/output1.png)
+
+---
+
+### 3. **Bivariate Analysis**
 - Statistical methods were used to explore relationships between variables, focusing on numerical ones such as age, weight, and salary.
 - Correlation analysis highlighted the strength and direction of relationships. For instance:
   - Positive correlations indicated that as one variable increased, so did the other.
@@ -31,13 +37,13 @@ This project explores and analyzes the relationships between various attributes 
 
 ---
 
-### 3. **Pivot Tables**
+### 4. **Pivot Tables**
 - Pivot tables summarized data by aggregating salaries across different player positions and heights, providing clear comparisons.
 - Key findings highlighted salary trends based on physical attributes and positions.
 
 ---
 
-### 4. **Visualizations**
+### 5. **Visualizations**
 Data visualizations were created to present key relationships clearly and effectively:
 - **Age vs Salary**: Explored how salary changes with player age.
 - **Height vs Salary**: Highlighted the impact of height on salary distribution.
@@ -52,6 +58,7 @@ The dataset contained a diverse range of information:
 - **Positions**: 5 player positions analyzed across teams.
 - **Attributes**: Player details, including age, height, weight, salary, and more.
 
+![NBA Teams](Image/output2.png)
 ---
 
 ## Conclusion
