@@ -1,19 +1,19 @@
-# NBA Players Data Analysis Project
+# NBA Players Data Analysis Project.🏀
 <img src="Image/nba1.jpg" alt="Project photo cover">
 
-## Overview
+## Overview.
 This project explores and analyzes the relationships between various attributes of NBA players, such as their positions, teams, age, height, weight, and salary. The analysis focuses on identifying patterns and insights using statistical methods, visualizations, and pivot tables.
 
 ---
 
-## Objectives
+## Objectives.
 1. Explore the relationships between categorical variables, such as positions and teams.
 2. Analyze numerical variables to identify correlations and trends, particularly focusing on salary.
 3. Visualize key findings to provide clear and actionable insights into the data.
 
 ---
 
-## Features of the Analysis
+## Features of the Analysis.
 
 ### 1. **Categorical Analysis**
 - Relationships between categorical variables were explored, such as player positions within teams and height distributions across positions.
@@ -43,7 +43,7 @@ Here at Numerical analysis, we focused on understanding relationships and trends
 
 ---
 
-### 5. **Visualizations**
+### 5. **Visualisations**
 Data visualizations were created to present key relationships clearly and effectively:
 - **Age vs Salary**: Explored how salary changes with player age.
 - **Height vs Salary**: Highlighted the impact of height on salary distribution.
@@ -71,7 +71,17 @@ The analysis offers valuable insights for further exploration, such as how team 
 
 ---
 
-## How to Access the Analysis
+## How to Access the Analysis :
 All code and detailed analysis are available in the accompanying notebook file, where you can view the step-by-step implementation.
+
+## Tools and Technologies Used.
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Jupyter Notebook
+7. Scipy.stats
+8. GitHub
 
 >## *“You miss 100% of the shots you don’t take.”*- Wayne Gretzky.
